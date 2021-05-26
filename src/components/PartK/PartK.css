@@ -1,0 +1,51 @@
+.qr-block{
+    display: flex;
+
+}
+.bit{
+    height: 40px;
+}
+.qr-block{
+    display: grid;
+    grid-template-columns: 0.3fr 1fr 0.5fr;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.15);
+}
+.qr-block h4{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Hind', sans-serif;
+    color: #090F3F;
+}
+.bit{
+    margin: 20px;
+    margin-top: 60px;
+}
+.somesleep h4{
+    margin-top: 60px;
+}
+.somesleep p{
+    color: #4F4F4F;
+    font-size: 12px;
+    font-weight: 00;
+    font-family: 'Hind', sans-serif;
+}
+.sss{
+    padding: 20px;
+}
+.event{
+    text-align: center;
+    margin-bottom: 55px;
+}
+.donate{
+    font-weight: 500;
+    font-size: 46px;
+    font-family: 'Rubik', sans-serif;
+    color: #090F3F;
+    margin-top: 20px;
+}
+.event p{
+    color: #4F4F4F;
+    font-size: 18px;
+    font-weight: 300;
+}

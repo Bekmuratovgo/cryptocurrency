@@ -1,0 +1,70 @@
+.secure{
+    font-size: 73px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+.line{
+    font-size: 73px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    border-bottom: 4px solid #CF1257;
+    border-radius: 2px;
+}
+.block-for-secure{
+    margin-top: 100px;
+    display: flex;
+    align-items: flex-end;
+}
+.lymcoin{
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Hind', sans-serif;
+}
+.block-lymcoin{
+    margin-top: 40px;
+}
+.btn-twin{
+    border-radius: 20px;
+    background-color: #F8BA1A;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Hind', sans-serif;
+    border: 2px solid #F8BA1A;
+}
+.btn-twin-b{
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color: #090F3F;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Hind', sans-serif;
+    border: 2px solid white;
+}
+.btn-twin:hover{
+   background-color: #F8BA1A;
+   border: 2px solid #F8BA1A;
+   color: black;
+}
+.btn-twin-b:hover{
+    background-color: #F8BA1A;
+    border: 2px solid #F8BA1A;
+    color: black;
+}
+
+.block-phone{
+    text-align: center;
+    margin-top: -120px;
+}

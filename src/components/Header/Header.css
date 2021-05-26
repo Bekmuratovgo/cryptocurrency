@@ -1,0 +1,35 @@
+#nav-ul li{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#nav-ul li>a{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    /* font-family: 'Montserrat'; */
+    font-family: 'Hind', sans-serif;
+}
+.contact-us{
+    font-size: 15px;
+    border: 1px solid #090F3F;
+    border-radius: 15px;
+    background-color: #090F3F;
+}
+#dropdown li>a{
+    color: black;
+}
+.contact-us a{
+    padding: 5px;
+    padding-bottom: 3px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Hind', sans-serif;
+}
+body{
+    background-image: url('file:///C:/Users/nurbe/Downloads/mmmain.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    /* background-position: center -120px; */
+    height: 400px;
+}

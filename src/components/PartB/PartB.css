@@ -1,0 +1,31 @@
+.part-b{
+    margin-top: 180px;
+}
+.right-side h1{
+    font-family: 'Rubik', sans-serif;
+    font-size: 46px;
+    font-weight: 500;
+    color: #090F3F;
+}
+.subtitle{
+    font-family: 'Hind', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.welcome{
+    border-bottom: 3px solid #CF1257;
+    border-radius: 2px;
+}
+.block-for-h1{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+}
+.right-side p{
+    margin-top: 10px;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: 'Hind', sans-serif;
+    color: #4F4F4F;
+}

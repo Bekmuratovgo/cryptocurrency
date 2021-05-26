@@ -1,0 +1,93 @@
+.main-stone{
+    background-image: url('file:///C:/Users/nurbe/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/stone.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    /* width: 100%; */
+    /* background-position: center -120px; */
+    height: 700px;
+}
+.title-stone{
+    font-size: 46px;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+.left-stone{
+    height: 600px;
+    display: flex;
+    align-items: flex-end;
+}
+.for-miner{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Hind', sans-serif;
+}
+.stone-container p{
+    color: rgb(204, 204, 204);
+}
+.number-block p{
+    color: white;
+}
+.number-block{
+    display: flex;
+    margin-top: 20px;
+}
+.the-first{
+    margin: 0 22px;
+    font-size: 46px;
+    font-weight: 400;
+    font-family: 'Hind', sans-serif;
+
+}
+.the-second{
+    margin: 0 22px;
+    font-family: 'Hind', sans-serif;
+    font-size: 46px;
+    font-weight: 400;
+}
+.for-miner{
+    margin-bottom: 30px;
+}
+.win-block{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    background: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.lin-block{
+    margin: 0 10px;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    background: rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.www h1{
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    font-family: 'Hind', sans-serif;
+    margin-top: 10px;
+}
+.win-block img{
+    margin-top: 10px;
+}
+.lin-block img{
+    margin-top: 10px;
+}
+.www p{
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Hind', sans-serif;
+    color: white;
+}
+.black-block{
+    display: flex;
+}

@@ -1,0 +1,126 @@
+.block-roadmap{
+    margin-top: 100px;
+}
+.implementation{
+    text-align: center;
+    margin-bottom: 180px;
+}
+.implementation h6{
+    margin-bottom: 20px;
+}
+.implementation h1{
+    font-size: 46px;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+    color: #090F3F;
+}
+.implementation p{
+    margin-top: 20px;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: 'Hind', sans-serif;
+    color: #4F4F4F;
+}
+.rec-1{
+    position: absolute;
+}
+.rec-2{
+    position: absolute;
+}
+
+.data{
+    font-weight: 300;
+    font-size: 14px;
+    font-family: 'Hind', sans-serif;
+    color: #4F4F4F;
+}
+.odin p{
+    color: #090F3F;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Hind', sans-serif;
+}
+.dva p{
+    color: #090F3F;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Hind', sans-serif;
+}
+.tri p{
+    color: #090F3F;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Hind', sans-serif;
+}
+.chetyre p{
+    color: #090F3F;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Hind', sans-serif;
+}
+.pyat p{
+    color: #090F3F;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Hind', sans-serif;
+}
+
+.rec-3{
+    position: absolute;
+    top: -8px;
+    /* left: 200px; */
+}
+.rec-4{
+    top: -8px;
+    left: 180px;
+    position: absolute;
+}
+.rec-5{
+    top: -8px;
+    left: 360px;
+    position: absolute;
+}
+.rec-6{
+    top: -8px;
+    left: 540px;
+    position: absolute;
+}
+
+.rec-7{
+    position: absolute;
+    top: -8px;
+    left: 720px;
+}
+.rec-8{
+    position: absolute;
+    top: -8px;
+    left: 900px;
+}
+.odin{
+    position: absolute;
+    left: 370px;
+    top: -80px;
+}
+.dva{
+    position: absolute;
+    left: 730px;
+    top: -80px;
+}
+.tri{
+    position: absolute;
+    left: 190px;
+    top: 60px;
+}
+.chetyre{
+    position: absolute;
+    left: 550px;
+    top: 60px;
+}
+.pyat{
+    position: absolute;
+    left: 910px;
+    top: 60px;
+}
+.blocks-img{
+    margin-top: 300px;
+}

@@ -1,0 +1,34 @@
+.upcoming{
+    margin-top: 180px;
+}
+.april-block{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.15);
+    width: 300px;
+    padding: 20px;
+}
+.april-block h3{
+    color: #CF1257;
+    font-size: 48px;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+}
+.qwerty{
+    font-size: 18px;
+    font-weight: 500;
+    color: #CF1257;
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 50px;
+}
+.april-block h4{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Hind', sans-serif;
+    color: #090F3F;
+}
+.april-block p{
+    margin-bottom: 50px;
+}
+.up{
+    margin-bottom: 50px;
+}
