@@ -11,6 +11,7 @@ import suitcase from '../../img/suitcase.png'
 const PartC = () => {
     return (
         <div className="w-100">
+            {/* Its just comment. After 15min delete this comment */}
             <div className="container part-c">
                 <h2><span className="ben-span">0.2 BENEFITS</span></h2>
                 <h1 className="main-title">Lymcoin Benefits</h1>
